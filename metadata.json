@@ -1,0 +1,5 @@
+{
+  "name": "숏링크 & QR 생성기",
+  "description": "URL을 단축하고 QR 코드를 생성하여 다운로드할 수 있는 도구입니다.",
+  "requestFramePermissions": []
+}
